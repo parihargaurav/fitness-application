@@ -5,4 +5,3 @@ enhancing the application’s functionality and user experience.
 
 Technology Used: ReactJs, Material-UI, and Rapid-API
 
-Working Link : https://fitness-application-chi.vercel.app/
